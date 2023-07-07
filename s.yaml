@@ -3,7 +3,7 @@ name: SeaMoonAPP
 access: "default"
 
 vars:
-  region: cn-hongkong # 部署区域，请看docs/DEPLOY.md
+  region: cn-beijing # 部署区域，请看docs/DEPLOY.md
   service:
     name: SeaMoon-Service
     description: "SeaMoon Service"
